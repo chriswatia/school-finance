@@ -1,3 +1,3 @@
 # school-finance
-School Fianance Management System of a secondary school.
+School Fianance Management System for secondary schools.
 Developed using java.
